@@ -3,6 +3,7 @@
 This project implements a chatbot that predicts the sentiment of a user's input text. It categorizes the sentiment into Positive, Negative, or Neutral using natural language processing (NLP) techniques and machine learning models. The chatbot leverages advanced text preprocessing, word embeddings, and an LSTM (Long Short-Term Memory) neural network to achieve accurate sentiment predictions.
 
 Key Features
+
 Text Preprocessing:
 
 Cleans text by removing digits, URLs, mentions, hashtags, special characters, and HTML tags.
