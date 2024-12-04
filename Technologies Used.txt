@@ -1,0 +1,18 @@
+Technologies Used
+
+Libraries:
+Pandas, NumPy, SpaCy, LangDetect, Gensim, Keras
+
+
+Machine Learning:
+Word2Vec for word embeddings
+LSTM for sequence modeling
+
+
+Tools:
+YAML for configuration
+
+Sentiment Datasets:
+pos.csv: Positive sentiment data
+neg.csv: Negative sentiment data
+neutral.csv: Neutral sentiment data
